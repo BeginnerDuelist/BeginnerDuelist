@@ -1,4 +1,4 @@
-### Hi there 👋
+### <a href="https://app.daily.dev/catalinbuza31212"><img src="https://api.daily.dev/devcards/f03c5c5f50cb4273bd7cd5e4546c2b25.png?r=x9w" width="400" alt="CATALIN BUZA's Dev Card"/></a> 👋
 
 <!--
 **BeginnerDuelist/beginnerduelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
